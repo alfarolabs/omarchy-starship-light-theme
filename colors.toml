@@ -2,32 +2,32 @@
 # launch photos in backgrounds/; only lightness (and at most 2.2x chroma) is tuned for reading.
 mode = "light"
 
-accent = "#40688e"              # Tower clear: steel-blue sky above the ship
-selection = "#d2e0ec"           # Ascent: horizon haze
-muted = "#c4c6b7"               # Dusk liftoff: dusk sky
+accent = "#3c6489"              # Tower clear: steel-blue sky above the ship
+selection = "#c8d6e3"           # Ascent: horizon haze
+muted = "#babcae"               # Dusk liftoff: dusk sky
 
-background = "#f8f1e8"          # Starbase plume: sunlit cloud crown
-dark_background = "#ede5db"     # Starbase plume: sunlit cloud crown
-darker_background = "#e2d9ce"   # Starbase plume: sunlit cloud crown
-lighter_background = "#fcf7f1"  # Starbase plume: sunlit cloud crown
+background = "#efe4d7"          # Starbase plume: sunlit cloud crown
+dark_background = "#e5dbcd"     # Starbase plume: sunlit cloud crown
+darker_background = "#dad0c2"   # Starbase plume: sunlit cloud crown
+lighter_background = "#f4ebe0"  # Starbase plume: sunlit cloud crown
 
-foreground = "#2f4d61"          # Ascent: deep bay water
-dark_foreground = "#738694"     # Ascent: deep bay water
-light_foreground = "#49677d"    # Ascent: deep bay water
-bright_foreground = "#1e3b4f"   # Ascent: deep bay water
+foreground = "#2a475c"          # Ascent: deep bay water
+dark_foreground = "#6c7f8c"     # Ascent: deep bay water
+light_foreground = "#426076"    # Ascent: deep bay water
+bright_foreground = "#18364a"   # Ascent: deep bay water
 
-red = "#a04b6f"                 # Ascent: pink Raptor exhaust plume
-yellow = "#906817"              # Starbase plume: sun-gilded plume edge
-orange = "#a45839"              # Tower clear: flame-lit smoke by the tower
-green = "#6c6c3f"               # Dusk liftoff: olive dusk haze over the marsh
-cyan = "#387480"                # Starbase plume: Gulf on the horizon
-blue = "#2765a5"                # Ascent: clear morning sky
-magenta = "#636781"             # Tower clear: lavender shadow in the smoke column
+red = "#9b466a"                 # Ascent: pink Raptor exhaust plume
+yellow = "#875f06"              # Starbase plume: sun-gilded plume edge
+orange = "#9c5131"              # Tower clear: flame-lit smoke by the tower
+green = "#666639"               # Dusk liftoff: olive dusk haze over the marsh
+cyan = "#326f7a"                # Starbase plume: Gulf on the horizon
+blue = "#2362a2"                # Ascent: clear morning sky
+magenta = "#5d617b"             # Tower clear: lavender shadow in the smoke column
 brown = "#66452b"               # Starbase plume: tidal mudflats
 
-bright_red = "#b1567c"          # Ascent: pink Raptor exhaust plume
-bright_yellow = "#a07521"       # Starbase plume: sun-gilded plume edge
-bright_green = "#797949"        # Dusk liftoff: olive dusk haze over the marsh
-bright_cyan = "#42828f"         # Starbase plume: Gulf on the horizon
-bright_blue = "#3072b7"         # Ascent: clear morning sky
-bright_magenta = "#6f7490"      # Tower clear: lavender shadow in the smoke column
+bright_red = "#ac5178"          # Ascent: pink Raptor exhaust plume
+bright_yellow = "#976c13"       # Starbase plume: sun-gilded plume edge
+bright_green = "#737443"        # Dusk liftoff: olive dusk haze over the marsh
+bright_cyan = "#3c7c89"         # Starbase plume: Gulf on the horizon
+bright_blue = "#2d6fb3"         # Ascent: clear morning sky
+bright_magenta = "#696e8a"      # Tower clear: lavender shadow in the smoke column

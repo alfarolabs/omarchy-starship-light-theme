@@ -34,18 +34,18 @@ The photos have no true red or green, and the palette reflects that. Red is the 
 
 | Role | Hex | Photo | Region | Sampled |
 |------|-----|-------|--------|---------|
-| background | `#f8f1e8` | Starbase plume | sunlit cloud crown | `#cac0b3` |
-| foreground | `#2f4d61` | Ascent | deep bay water | `#364b5a` |
-| accent | `#40688e` | Tower clear | steel-blue sky above the ship | `#4e677f` |
-| selection | `#d2e0ec` | Ascent | horizon haze | `#778795` |
-| muted | `#c4c6b7` | Dusk liftoff | dusk sky | `#a4a694` |
-| red | `#a04b6f` | Ascent | pink Raptor exhaust plume | `#fac7d9` |
-| yellow | `#906817` | Starbase plume | sun-gilded plume edge | `#cfab70` |
-| orange | `#a45839` | Tower clear | flame-lit smoke by the tower | `#b68673` |
-| green | `#6c6c3f` | Dusk liftoff | olive dusk haze over the marsh | `#9fa086` |
-| cyan | `#387480` | Starbase plume | Gulf on the horizon | `#89abb2` |
-| blue | `#2765a5` | Ascent | clear morning sky | `#1863aa` |
-| magenta | `#636781` | Tower clear | lavender shadow in the smoke column | `#42444f` |
+| background | `#efe4d7` | Starbase plume | sunlit cloud crown | `#cac0b3` |
+| foreground | `#2a475c` | Ascent | deep bay water | `#364b5a` |
+| accent | `#3c6489` | Tower clear | steel-blue sky above the ship | `#4e677f` |
+| selection | `#c8d6e3` | Ascent | horizon haze | `#778795` |
+| muted | `#babcae` | Dusk liftoff | dusk sky | `#a4a694` |
+| red | `#9b466a` | Ascent | pink Raptor exhaust plume | `#fac7d9` |
+| yellow | `#875f06` | Starbase plume | sun-gilded plume edge | `#cfab70` |
+| orange | `#9c5131` | Tower clear | flame-lit smoke by the tower | `#b68673` |
+| green | `#666639` | Dusk liftoff | olive dusk haze over the marsh | `#9fa086` |
+| cyan | `#326f7a` | Starbase plume | Gulf on the horizon | `#89abb2` |
+| blue | `#2362a2` | Ascent | clear morning sky | `#1863aa` |
+| magenta | `#5d617b` | Tower clear | lavender shadow in the smoke column | `#42444f` |
 | brown | `#66452b` | Starbase plume | tidal mudflats | `#5f4837` |
 
 The full palette, including bright variants, is in `colors.toml`. Each line there names the photo and region it came from.
